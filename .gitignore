@@ -1,0 +1,19 @@
+# 생성 파일과 캐시를 제외함
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.VC.db
+
+# 이전 저장소 폴더를 제외함
+/CH4_2/
+/CH4-2/
+# 개인 설정과 파이썬 캐시를 제외함
+*.user
+*.VC.db-shm
+*.VC.db-wal
+__pycache__/
+*.pyc
